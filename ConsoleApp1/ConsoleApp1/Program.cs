@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World! \n Mustafa EFE");
             String efe = Console.ReadLine();
             Console.WriteLine(efe);
+            Console.WriteLine("Efe: " + efe);
         }
     }
 }
