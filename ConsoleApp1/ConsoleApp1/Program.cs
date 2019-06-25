@@ -8,6 +8,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World! \n Mustafa EFE");
             Console.WriteLine("Hello World! \n Mustafa EFE");
+            String efe = Console.ReadLine();
+            Console.WriteLine(efe);
+            Console.WriteLine("Efe: " + efe);
             String str_sayi1 = Console.ReadLine();
             String str_sayi2 = Console.ReadLine();
 
